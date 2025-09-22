@@ -1,25 +1,35 @@
-<div align="center">
+![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Akshat Choukse</h1>
+<h3 align="center">A passionate Full Stack Developer and Data Scientist from India</h3>
+<img align="right" alt="Coding" width="400" src="https://www.codeias.com/wp-content/uploads/2019/12/mdadain-qdimg-cdda59d626dc8asdasd6397fe45080e6e9c7d027ddasd.gif">
 
-# Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm [Akshat Choukse!](https://github.com/akshatchoukse)!!
 
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshatchoukse&label=Profile%20views&color=0e75b6&style=flat" alt="akshatchoukse" /> </p>
 
-<p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack%20Developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+- 🌱 I’m currently learning **Data Science and Gen AI**
+
+- 👨‍💻 All of my projects are available at [akshatchoukse](akshatchoukse)
+
+- 📝 I regularly write articles on <a href="https://www.linkedin.com/in/akshat-choukse-9033a82a0/"><img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/></a>
+
+- 💬 Ask me about **Full Stack Developer | Learning Data Science | Exploratory Data Analysis (EDA), Statistical Analysis, Insightful Reporting**
+
+- 📫 How to reach me 
+<a href="mailto: choukseakshat@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/></a>
+
+
+- 📄 Know about my experiences [https://akshat-protfolio.vercel.app/](https://akshat-protfolio.vercel.app/)
+
+- ⚡ Fun fact **I Love Learning New Technologies**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/akshat-choukse-9033a82a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshat choukse" height="30" width="40" /></a>
+<a href="https://kaggle.com/akshat_choukse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akshat choukse" height="30" width="40" /></a>
+<a href="https://instagram.com/akshat__choukse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshat__choukse" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/akshat_choukse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akshat choukse" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/akshatchoukse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshatchoukse" height="30" width="40" /></a>
 </p>
-
-<hr/>
-
-## 👨🏻‍💻 &nbsp;About Me
-
-- 💡 &nbsp;I like to explore new technologies.
-- 🎓 &nbsp;I'm a student of Chameli Devi Group Of Institutions
-- 🌱 &nbsp;I'm currently learning _full stack web development_.
-- ❤️ &nbsp;My favorite language: `JavaScript`.
-- ✉️ &nbsp;You can email me at choukseakshat@gmail.com.
-
-<!---
---->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -33,9 +43,8 @@
 
 </div>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshatchoukse&show_icons=true&locale=en&layout=compact" alt="akshatchoukse" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshatchoukse&show_icons=true&locale=en" alt="akshatchoukse" /></p>
 
-## :mailbox: Connect With Me
-
-<a href="https://www.linkedin.com/in/akshat-choukse-9033a82a0/"><img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/></a>
-<a href="mailto: choukseakshat@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatchoukse&" alt="akshatchoukse" /></p>
