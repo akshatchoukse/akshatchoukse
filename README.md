@@ -318,6 +318,24 @@ Open to    : Conversations on AI and full-stack products
 
 ---
 
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshatchoukse/akshatchoukse/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshatchoukse/akshatchoukse/output/github-snake.svg" />
+  <img alt="Snake animation eating my GitHub contributions" src="https://raw.githubusercontent.com/akshatchoukse/akshatchoukse/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+<br/>
+
+<img alt="Snake animation (light)" src="https://raw.githubusercontent.com/akshatchoukse/akshatchoukse/output/github-snake.svg" width="100%" />
+
+</div>
+
+---
+
 ## 🤝 Let's Connect
 
 I'm open to conversations with engineers, founders and recruiters working on **AI and full-stack products**.
