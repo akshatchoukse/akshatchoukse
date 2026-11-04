@@ -328,10 +328,6 @@ Open to    : Conversations on AI and full-stack products
   <img alt="Snake animation eating my GitHub contributions" src="https://raw.githubusercontent.com/akshatchoukse/akshatchoukse/output/github-snake-dark.svg" width="100%" />
 </picture>
 
-<br/>
-
-<img alt="Snake animation (light)" src="https://raw.githubusercontent.com/akshatchoukse/akshatchoukse/output/github-snake.svg" width="100%" />
-
 </div>
 
 ---
